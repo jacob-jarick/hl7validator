@@ -1,0 +1,91 @@
+AD - Address
+AUI - Authorization Information
+CCD - Charge Code and Date
+CCP - Channel Calibration Parameters
+CD - Channel Definition
+CE - Coded Element
+CF - Coded Element with Formatted Values
+CNE - Coded with No Exceptions
+CNN - Composite ID Number and Name Simplified
+CP - Composite Price
+CQ - Composite Quantity with Units
+CSU - Channel Sensitivity
+CWE - Coded with Exceptions
+CX - Extended Composite ID with Check Digit
+DDI - Daily Deductible Information
+DIN - Date and Institution Name
+DLD - Discharge Location and Date
+DLN - Driver_s License Number
+DLT - Delta
+DR - Date/Time Range
+DT - Date
+DTM - Date/Time
+DTN - Day Type and Number
+ED - Encapsulated Data
+EI - Entity Identifier
+EIP - Entity Identifier Pair
+ELD - Error Location and Description
+ERL - Error Location
+FC - Financial Class
+FN - Family Name
+FT - Formatted Text Data
+GTS - General Timing Specification
+HD - Hierarchic Designator
+ICD - Insurance Certification Definition
+ID - Coded values for HL7 tables
+IS - Coded value for user-defined tables
+JCC - Job Code/Class
+LA1 - Location with Address Variation 1
+LA2 - Location with Address Variation 2
+MA - Multiplexed Array
+MO - Money
+MOC - Money and Code
+MOP - Money or Percentage
+MSG - Message Type
+NA - Numeric Array
+NDL - Name with Date and Location
+NM - Numeric
+NR - Numeric Range
+OCD - Occurrence Code and Date
+OSD - Order Sequence Definition
+OSP - Occurrence Span Code and Date
+PIP - Practitioner Institutional Privileges
+PL - Person Location
+PLN - Practitioner License or Other ID Number
+PPN - Performing Person Time Stamp
+PRL - Parent Result Link
+PT - Processing Type
+PTA - Policy Type and Amount
+QIP - Query Input Parameter List
+QSC - Query Selection Criteria
+RCD - Row Column Definition
+RFR - Reference Range
+RI - Repeat Interval
+RMC - Room Coverage
+RP - Reference Pointer
+RPT - Repeat Pattern
+SAD - Street Address
+SCV - Scheduling Class Value Pair
+SI - Sequence ID
+SN - Structured Numeric
+SPD - Specialty Description
+SPS - Specimen Source
+SRT - Sort Order
+ST - String Data
+TM - Time
+TQ - Timing Quantity
+TS - Time Stamp
+TX - Text Data
+UVC - UB Value Code and Amount
+VARIES - Variable Datatype
+VH - Visiting Hours
+VID - Version Identifier
+VR - Value Range
+VTQ - Virtual Table Query Request
+WVI - Channel Identifier
+WVS - Waveform Source
+XAD - Extended Address
+XCN - Extended Composite ID Number and Name for Persons
+XON - Extended Composite Name and Identification Number for Organizations
+XPN - Extended Person Name
+XTN - Extended Telecommunication Number
