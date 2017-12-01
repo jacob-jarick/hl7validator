@@ -60,14 +60,12 @@ sub display
 		-foreground	=> 'white',
 		-wrap		=> 'none',
 		-height		=> 10,
-	# 	-insertmode	=> "insert",
 		-wrap		=> 'char',
 	)->pack
 	(
-		-side => "bottom",
+		-side => 'bottom',
 		-expand=> 1,
-		-fill => "x",
-	#  	-anchor => 's'
+		-fill => 'x',
 	);
 	&fill_text($msg_txt, $HL7::mhash{$uid}{value}, 0, 0);
 
@@ -101,8 +99,6 @@ sub display
 	-browsecmd => sub
 	{
 		my $path = shift;
-# 		print Dumper(\%info_hash);
-# 		my  = &path2name($hlist_selection);
 
  		my @t = split(/\//, $path);
  		my $name = HL7::get_name(@t);
